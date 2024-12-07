@@ -1,0 +1,4 @@
+Student_ID,Student_Name,Age,Gender,Grade_Level,Enrollment_Status,Course_ID,Course_Name,Credits,Teacher_ID,Teacher_Name,Department,Years_of_Experience,Grade,Attendance_Percentage,Department_ID,Department_Name,Head_of_Department
+S001,Omar Farooq,16,Male,10th,Enrolled,C101,Mathematics,3,T001,Prof. Imran,Science,10,A,95,,,
+S002,Fatima Naeem,17,Female,11th,Enrolled,C102,Physics,4,T002,Mrs. Ayesha,Science,7,B,89,,,
+S003,Hassan Javed,18,Male,12th,Graduated,C103,History,2,T003,Mr. Saeed,Arts,15,A,92,,,
