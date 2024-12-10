@@ -1,0 +1,6 @@
+Stock_ID,Company_Name,Stock_Price_USD,Market_Cap_Billions,52_Week_High,52_Week_Low
+S001,Tech Innovators,150.25,500,160.0,140.0
+S002,Green Energy Co.,120.5,300,130.0,110.0
+S003,HealthFirst Inc.,98.75,150,105.0,90.0
+S004,Retail Giants,210.3,800,220.0,200.0
+S005,Global Transport,175.8,400,185.0,165.0
